@@ -6,4 +6,4 @@
 
 <h2> Ekran goruntusu</h2>
 
-![](2024-10-0310-52-10-ezgif.com-video-speed.mkv)
+![](proje2.gif)
